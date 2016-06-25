@@ -49,5 +49,9 @@
 .checkbox:active .checkbox-inner input[type=checkbox]:checked+span{
     transform:scale(1)!important;
     transition:all 100ms ease;
+    
+}
+.bda-slist .checkbox {
+    margin-top: -116px;
 }
 /*---------------------Made By Beard Design-----------------------*/
