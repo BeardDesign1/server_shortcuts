@@ -1,6 +1,6 @@
-//META{"name":"material_switches","description":"Turns checkboses into Material Design switches","author":"Beard_Design","version":"1.0.0"}*//{}
+//META{"name":"material_switches","description":"Turns checkboxes into Material Design switches","author":"Beard_Design","version":"1.0.0"}*//{}
 
-/*--------------------------------------------*/
+/*---------------------Made By Beard Design-----------------------*/
 .checkbox .checkbox-inner input[type=checkbox]:checked+span:after{
     background:#7289DA!important;
     top:-3px;
@@ -50,4 +50,4 @@
     transform:scale(1)!important;
     transition:all 100ms ease;
 }
-/*--------------------------------------------*/
+/*---------------------Made By Beard Design-----------------------*/
