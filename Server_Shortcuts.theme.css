@@ -1,0 +1,57 @@
+//META{"name":"Server_shortcuts","description":"Server Shortcuts :)","author":"Beard_Design","version":"1.0.0"}*//{}
+
+
+
+/*---------------------Made By Beard Design-----------------------*/
+
+.guild-header ul{
+    transform: translateZ(0);
+}
+.guild-header li{
+    display:inline-block;
+}
+.guild-header ul li:hover a{
+    border-radius:0
+}
+.guild-header ul a{
+    display:inline-block;
+    height:20px;
+    width:30px;
+    content:url(https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_settings_white_24px.svg);
+    padding:0;
+    margin:0;
+    padding-left:9px;
+    padding-right:9px;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+.guild-header li:nth-of-type(1) a{
+    content:url(https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_notifications_white_24px.svg)
+}
+.guild-header ul a:nth-of-type(2) a{
+    content:url(https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_security_white_24px.svg)
+}
+.guild-header li:nth-of-type(3) a{
+    content:url(https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_perm_data_setting_white_24px.svg)
+}
+.guild-header li:last-of-type a{
+    content:url(https://cdn.discordapp.com/attachments/185046628732895232/204645671624638465/disconnect.svg);
+    opacity:0.35
+}
+.guild-header li:nth-of-type(4) a{
+    content:url(https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_mode_edit_white_24px.svg)
+}
+.guild-header ul a{
+    font-size:0;
+}
+.btn-hamburger{
+    visibility:hidden;
+}
+.scroller.guild-channels{
+    margin-top:30px
+}
+.guild-header header{
+    cursor:default!important
+}
+
+/*---------------------Made By Beard Design-----------------------*/
