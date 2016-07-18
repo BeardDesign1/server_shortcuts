@@ -17,7 +17,7 @@
     display:inline-block;
     height:20px;
     width:30px;
-    content:url(https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_settings_white_24px.svg);
+    content:url(https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_security_white_24px.svg);
     padding:0;
     margin:0;
     padding-left:9px;
@@ -35,8 +35,8 @@
     content:url(https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_perm_data_setting_white_24px.svg)
 }
 .guild-header li:last-of-type a{
-    content:url(https://cdn.discordapp.com/attachments/185046628732895232/204645671624638465/disconnect.svg);
-    opacity:0.35
+    content:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAxOC4wLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+DQo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkNhbHF1ZV8xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCINCgkgdmlld0JveD0iMCAwIDI0IDI0IiBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8cGF0aCBmaWxsPSJub25lIiBkPSJNMCwwaDI0djI0SDBWMHoiLz4NCjxnPg0KCTxwb2x5Z29uIGZpbGw9IiNGRkZGRkYiIHBvaW50cz0iNi4xLDYuMSAxMS43LDYuMSAxMS43LDQuMSA2LjEsNC4xIDQuMSw0LjEgNC4xLDYuMSA0LjEsMTggNC4xLDIwIDYuMSwyMCAxMS43LDIwIDExLjcsMTggNi4xLDE4IAkNCgkJIi8+DQoJPHBvbHlnb24gZmlsbD0iI0ZGRkZGRiIgcG9pbnRzPSIxNC44LDYuOSAxMy40LDguNCAxNi4xLDExLjEgNy45LDExLjEgNy45LDEzLjEgMTYuMSwxMy4xIDEzLjQsMTUuOCAxNC44LDE3LjMgMTkuOSwxMi4xIAkiLz4NCjwvZz4NCjwvc3ZnPg0K);
+    opacity:0.35;
 }
 .guild-header li:nth-of-type(4) a{
     content:url(https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_mode_edit_white_24px.svg)
